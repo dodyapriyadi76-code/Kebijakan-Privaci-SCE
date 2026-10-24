@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kebijakan Privasi - [Nama Aplikasi Anda]</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.8;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 30px 20px;
+            background-color: #ffffff;
+        }
+        h1 {
+            font-size: 28px;
+            margin-bottom: 10px;
+            color: #222;
+            border-bottom: 2px solid #4285f4;
+            padding-bottom: 10px;
+        }
+        .terakhir-diperbarui {
+            color: #666;
+            font-size: 14px;
+            margin-bottom: 30px;
+        }
+        h2 {
+            font-size: 20px;
+            margin: 30px 0 15px;
+            color: #333;
+        }
+        p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+        ul {
+            margin: 15px 0;
+            padding-left: 25px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .kontak {
+            margin-top: 40px;
+            padding: 15px;
+            background-color: #f8f9fa;
+            border-radius: 8px;
+        }
+        a {
+            color: #4285f4;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Kebijakan Privasi</h1>
+    <p class="terakhir-diperbarui">Terakhir diperbarui: 24 Oktober 2026</p>
+
+    <p>Kami sangat menghormati dan menjaga privasi setiap pengguna aplikasi kami. Kebijakan ini menjelaskan secara rinci bagaimana kami mengumpulkan, menggunakan, menyimpan, melindungi, dan membagikan informasi Anda saat menggunakan aplikasi <strong>[Nama Aplikasi Anda]</strong>.</p>
+
+    <h2>1. Informasi yang Kami Kumpulkan</h2>
+    <p>Kami dapat mengumpulkan jenis informasi berikut:</p>
+    <ul>
+        <li><strong>Informasi yang Anda berikan langsung</strong>: Seperti nama, alamat email, atau data profil saat Anda mendaftar, mengisi formulir, atau menghubungi layanan pelanggan.</li>
+        <li><strong>Informasi yang dikumpulkan secara otomatis</strong>: Seperti jenis perangkat, sistem operasi, alamat IP, pola penggunaan aplikasi, laporan kesalahan, dan data kinerja untuk membantu kami memelihara dan meningkatkan kualitas aplikasi.</li>
+        <li><strong>Izin akses perangkat</strong>: Jika Anda memberikan persetujuan, kami dapat mengakses fitur tertentu pada perangkat Anda — seperti penyimpanan, kamera, atau lokasi — hanya untuk menjalankan fungsi layanan yang Anda minta.</li>
+    </ul>
+
+    <h2>2. Cara Kami Menggunakan Informasi</h2>
+    <p>Data yang dikumpulkan digunakan untuk tujuan berikut:</p>
+    <ul>
+        <li>Menyediakan, menjaga, dan mengembangkan fitur serta layanan aplikasi</li>
+        <li>Memastikan keamanan, kestabilan, dan keandalan sistem</li>
+        <li>Memberikan pemberitahuan terkait pembaruan, perubahan layanan, atau informasi penting lainnya</li>
+        <li>Menganalisis kecenderungan penggunaan agar kami dapat menyempurnakan pengalaman Anda</li>
+        <li>Mematuhi kewajiban hukum dan peraturan yang berlaku</li>
+    </ul>
+
+    <h2>3. Pembagian Informasi kepada Pihak Ketiga</h2>
+    <p>Kami <strong>tidak menjual, memperdagangkan, maupun menyewakan</strong> informasi pribadi Anda kepada pihak lain untuk kepentingan komersial. Kami dapat membagikan data hanya dalam kondisi berikut:</p>
+    <ul>
+        <li>Dengan persetujuan Anda secara jelas dan tertulis</li>
+        <li>Kepada mitra penyedia layanan yang mendukung operasional aplikasi kami, dengan kewajiban menjaga kerahasiaan dan keamanan informasi</li>
+        <li>Untuk memenuhi perintah pengadilan, ketentuan hukum, atau permintaan lembaga berwenang yang sah</li>
+        <li>Untuk melindungi hak, properti, serta keselamatan kami, para pengguna lain, maupun masyarakat umum</li>
+    </ul>
+
+    <h2>4. Penyimpanan dan Keamanan Data</h2>
+    <p>Data Anda disimpan di sistem yang dilindungi dengan langkah-langkah keamanan teknis dan organisasi yang sesuai untuk mencegah akses, pengubahan, pengungkapan, atau penghapusan tanpa izin. Informasi hanya disimpan selama diperlukan untuk mencapai tujuan yang dijelaskan dalam kebijakan ini, atau sesuai ketentuan undang-undang.</p>
+
+    <h2>5. Hak Terhadap Data Pribadi Anda</h2>
+    <p>Anda berhak untuk:</p>
+    <ul>
+        <li>Mengetahui, mengakses, menyalin, dan memperbaiki data pribadi yang kami miliki tentang Anda</li>
+        <li>Meminta penghapusan data pribadi Anda, kecuali kami wajib menyimpannya sesuai ketentuan hukum</li>
+        <li>Menarik kembali persetujuan yang telah Anda berikan sebelumnya</li>
+        <li>Mengajukan pertanyaan atau keluhan terkait pengelolaan data pribadi kami</li>
+    </ul>
+
+    <h2>6. Perlindungan Anak</h2>
+    <p>Aplikasi ini <strong>tidak ditujukan bagi anak-anak di bawah usia 13 tahun</strong>, dan kami tidak secara sengaja mengumpulkan informasi pribadi dari kelompok usia tersebut. Jika Anda mengetahui bahwa kami telah menerima data dari anak di bawah batas usia di atas, mohon segera hubungi kami agar kami dapat menghapus informasinya tanpa penundaan.</p>
+
+    <h2>7. Pembaruan Kebijakan Ini</h2>
+    <p>Kami dapat meninjau dan memperbarui Kebijakan Privasi ini dari waktu ke waktu. Setiap perubahan akan dipublikasikan di halaman ini dengan memperbarui tanggal "Terakhir diperbarui" di bagian atas. Penggunaan aplikasi setelah perubahan berlaku berarti Anda menerima ketentuan yang telah disesuaikan.</p>
+
+    <h2>8. Hubungi Kami</h2>
+    <div class="kontak">
+        <p>Jika Anda memiliki pertanyaan atau saran terkait Kebijakan Privasi ini, silakan hubungi kami di:</p>
+        <p>📧 <strong>[Alamat Email Anda]</strong></p>
+    </div>
+
+</body>
+</html>
